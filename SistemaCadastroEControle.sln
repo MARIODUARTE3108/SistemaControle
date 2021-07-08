@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation Layer", "1 - Presentation Layer", "{55C5064A-FD47-41D9-837D-CA60D9F0A28D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application Layer", "2 - Application Layer", "{1D88D63D-144C-470B-BEFF-BBB3003E9080}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain Layer", "3 - Domain Layer", "{01F727D3-C299-4AFC-90DC-B336CAB41C46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - InfraStructure Layer", "4 - InfraStructure Layer", "{6F43F106-6A22-4068-8EB8-E7B7A0DFAB7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{BCD5B690-417C-4913-8F6D-BD09DA18A010}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{7A703DA4-AE73-4FF4-AA0D-C88F166A3384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Domain", "Projeto.Domain\Projeto.Domain.csproj", "{8BD1230D-F33F-4C26-8B71-180FC17D91A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Infra.Data", "Projeto.Infra.Data\Projeto.Infra.Data.csproj", "{7BFFB2DE-BB24-4F8B-B628-8621DAC2286B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Presentation.API", "Projeto.Presentation.API\Projeto.Presentation.API.csproj", "{8150FABF-F063-4B01-A3D4-D92439153705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoApplication", "ProjetoApplication\ProjetoApplication.csproj", "{DDD9D6B8-9F75-4C93-B92A-7CE580A21F9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD1230D-F33F-4C26-8B71-180FC17D91A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD1230D-F33F-4C26-8B71-180FC17D91A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD1230D-F33F-4C26-8B71-180FC17D91A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD1230D-F33F-4C26-8B71-180FC17D91A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFFB2DE-BB24-4F8B-B628-8621DAC2286B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFFB2DE-BB24-4F8B-B628-8621DAC2286B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFFB2DE-BB24-4F8B-B628-8621DAC2286B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFFB2DE-BB24-4F8B-B628-8621DAC2286B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8150FABF-F063-4B01-A3D4-D92439153705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8150FABF-F063-4B01-A3D4-D92439153705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8150FABF-F063-4B01-A3D4-D92439153705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8150FABF-F063-4B01-A3D4-D92439153705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD9D6B8-9F75-4C93-B92A-7CE580A21F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD9D6B8-9F75-4C93-B92A-7CE580A21F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD9D6B8-9F75-4C93-B92A-7CE580A21F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD9D6B8-9F75-4C93-B92A-7CE580A21F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCD5B690-417C-4913-8F6D-BD09DA18A010} = {6F43F106-6A22-4068-8EB8-E7B7A0DFAB7C}
+		{7A703DA4-AE73-4FF4-AA0D-C88F166A3384} = {6F43F106-6A22-4068-8EB8-E7B7A0DFAB7C}
+		{8BD1230D-F33F-4C26-8B71-180FC17D91A4} = {01F727D3-C299-4AFC-90DC-B336CAB41C46}
+		{7BFFB2DE-BB24-4F8B-B628-8621DAC2286B} = {BCD5B690-417C-4913-8F6D-BD09DA18A010}
+		{8150FABF-F063-4B01-A3D4-D92439153705} = {55C5064A-FD47-41D9-837D-CA60D9F0A28D}
+		{DDD9D6B8-9F75-4C93-B92A-7CE580A21F9D} = {1D88D63D-144C-470B-BEFF-BBB3003E9080}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B17F1A-2CDD-4B29-B765-9E044EA13898}
+	EndGlobalSection
+EndGlobal

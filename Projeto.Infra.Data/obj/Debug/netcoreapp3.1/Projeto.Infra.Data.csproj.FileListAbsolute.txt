@@ -1,0 +1,15 @@
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache

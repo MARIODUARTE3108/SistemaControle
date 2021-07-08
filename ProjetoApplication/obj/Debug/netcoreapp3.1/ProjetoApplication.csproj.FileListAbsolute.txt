@@ -1,0 +1,12 @@
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\bin\Debug\netcoreapp3.1\ProjetoApplication.deps.json
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\bin\Debug\netcoreapp3.1\ProjetoApplication.dll
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\bin\Debug\netcoreapp3.1\ProjetoApplication.pdb
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.csprojAssemblyReference.cache
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.AssemblyInfoInputs.cache
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.AssemblyInfo.cs
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.csproj.CopyComplete
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.dll
+C:\Users\Mário Duarte\source\repos\SistemaCadastroEControle\ProjetoApplication\obj\Debug\netcoreapp3.1\ProjetoApplication.pdb

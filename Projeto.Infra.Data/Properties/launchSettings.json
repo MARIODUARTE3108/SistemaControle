@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Projeto.Infra.Data": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
